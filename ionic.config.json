@@ -1,0 +1,7 @@
+{
+  "name": "drone_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
